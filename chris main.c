@@ -3,7 +3,6 @@
 #include <string.h>
 
 static char input[100];
-
 static int getInput()
 {
     printf("\n -- Enter Command ---> ");
